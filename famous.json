@@ -1,0 +1,30 @@
+[
+  {
+    "first_name": "James",
+    "second_name": "Brown",
+    "place_of_origin": "USA",
+    "hobby": "dancing",
+    "genre": "funk"
+  }
+  {
+    "first_name": "James",
+    "second_name": "Bond",
+    "place_of_origin": "Scotland",
+    "hobby": "fighting",
+    "genre": "action"
+  }
+  {
+    "first_name": "Theresa",
+    "second_name": "May",
+    "place_of_origin": "GB",
+    "hobby": "politiking",
+    "genre": "democracy"
+  }
+  {
+    "first_name": "Saddam",
+    "second_name": "Hussein",
+    "place_of_origin": "Iraq",
+    "hobby": "bully",
+    "genre": "dictatorship"
+  }
+]
