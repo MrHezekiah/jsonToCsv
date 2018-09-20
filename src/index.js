@@ -10,11 +10,10 @@ fs.readFile(pathToFile, (err, data) => {
     const bottom = famous.map(head => {
         return Object.values(head).join();
     })
-
-    fs.writeFile('static/output.csv', `${head}\n ${bottom}.join('\n')`, err => {
+    fs.writeFile('static/output.csv', `${head}\n${bottom.join('\n')}`, err => {
         if (err) throw err;
 
-        console.log(head);
+
     });
 
 });
